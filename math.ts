@@ -7,3 +7,7 @@ export function powerOf2(x = 0): number {
 export function sum(x, y): number {
   return x + y;
 }
+//Default makes sum the default function
+  //export default sum(x, y): number {
+  //  return x + y;
+  // }
